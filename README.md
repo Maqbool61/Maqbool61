@@ -2,79 +2,192 @@
 
 # Hi, I'm Maqbool Ahmed 👋
 
-### Software Developer
+### Software Developer • Open Source Contributor • AI Tooling Enthusiast
 
-Building software with **Python, JavaScript, and TypeScript**, with a focus on **AI agents, automation, and developer tools**.
+Building reliable software, improving developer tools, and contributing to open source through security improvements, bug fixes, refactoring, automation, and AI tooling.
+
+<p>
+  <a href="https://github.com/Maqbool61">
+    <img src="https://komarev.com/ghpvc/?username=Maqbool61&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/Maqbool61?tab=followers">
+    <img src="https://img.shields.io/github/followers/Maqbool61?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/Maqbool61">
+    <img src="https://img.shields.io/github/stars/Maqbool61?affiliations=OWNER&style=flat&logo=github" />
+  </a>
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Merged-50%2B%20PRs-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Developer%20Tools-purple?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
+
+</p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I enjoy contributing to existing codebases—tracking down bugs, improving reliability, strengthening security, and building new features that make developer tools better.
+I'm a software developer who enjoys improving existing software as much as building new applications.
 
-My recent work has focused on AI agent frameworks, MCP tooling, automation, and open-source developer ecosystems.
+I actively contribute to open-source projects by:
+
+- 🐛 Fixing bugs
+- ✨ Building new features
+- 🔒 Strengthening security
+- ♻️ Refactoring large codebases
+- ⚡ Improving developer experience
+- 🧪 Increasing reliability through testing
+- 🤖 Working on AI tooling and automation
+
+I enjoy collaborating with maintainers and contributing improvements that make projects more stable, secure, and easier to use.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
-- 🤖 AI Agent Frameworks & MCP Ecosystem
-- ⚡ Automation & Developer Tooling
-- 🔒 Secure-by-Default Engineering
-- 🧪 Testing & Code Quality
-- 🌍 Open Source Contributions
+- 🤖 AI Agent Frameworks
+- 🧠 MCP Ecosystem
+- ⚡ Developer Tooling
+- 🔒 Security Hardening
+- 🧪 Testing & Reliability
+- 📦 Open Source Software
+- 🛠️ Python Automation
+- 🌍 Community Contributions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,flask,html,css,git,github,vscode,linux"/>
+
 </p>
 
 ---
 
-## 🔥 Recent Open Source Contributions
+# 🌍 Open Source Contributions
 
-| Repository | Contribution | Type |
-|------------|--------------|------|
-| [Fmarzochi/EGC #534](https://github.com/Fmarzochi/EGC/pull/534) | Secured audit log permissions (`chmod 600`) to protect sensitive security events. | 🔒 Security |
-| [Fmarzochi/EGC #564](https://github.com/Fmarzochi/EGC/pull/564) | Added automatic Continue.dev MCP server registration during installation. | ✨ Feature |
-| [cuga-project/cuga-agent #389](https://github.com/cuga-project/cuga-agent/pull/389) | Fixed logging across 22 files by replacing printf-style formatting with Python f-strings. | 🐛 Bug Fix |
-| [MarcoPorcellato/matryca-plumber #165](https://github.com/MarcoPorcellato/matryca-plumber/pull/165) | Refactored private attribute access into a public API while keeping all **975 tests** passing. | ♻️ Refactor |
-| [bitflicker64/Termstory #203](https://github.com/bitflicker64/Termstory/pull/203) | Improved exception handling to preserve original error context and added regression tests. | 🐛 Bug Fix |
-| [struggling-bird/open-teams #13](https://github.com/struggling-bird/open-teams/pull/13) | Built the initial VS Code extension scaffold with commands and TypeScript configuration. | ✨ Feature |
+I enjoy contributing to community projects through merged pull requests involving:
 
-➡️ **[View all merged pull requests](https://github.com/pulls?q=is%3Apr+author%3AMaqbool61+is%3Amerged)**
+- 🔒 Security Improvements
+- 🤖 AI Tooling
+- 🧠 MCP Integrations
+- ✨ New Features
+- 🐛 Bug Fixes
+- ♻️ Refactoring
+- ⚡ Performance Optimizations
+- 🧪 Testing & CI
+- 📚 Documentation
+- 💻 Developer Experience
 
 ---
 
-## 📈 GitHub Activity
+# ⭐ Featured Merged Pull Requests
+
+| Repository | Highlights |
+|------------|------------|
+| **Fmarzochi/EGC #534** | Hardened audit log permissions (`chmod 600`) to better protect sensitive security events. |
+| **Fmarzochi/EGC #564** | Added automatic Continue.dev MCP server registration during installation. |
+| **cuga-project/cuga-agent #389** | Modernized logging across 22 Python files by replacing printf formatting with Python f-strings. |
+| **MarcoPorcellato/matryca-plumber #165** | Refactored private attribute access into a stable public API while keeping all **975 automated tests** passing. |
+| **bitflicker64/Termstory #203** | Improved exception handling to preserve original error context and added regression tests. |
+| **struggling-bird/open-teams #13** | Built the initial VS Code extension scaffold with commands and TypeScript configuration. |
+| **Multiple Hugging Face projects** | Contributed fixes involving caching, logging, documentation, validation, testing, and infrastructure improvements. |
+| **Various community repositories** | Bug fixes, feature enhancements, performance optimizations, security improvements, and code quality updates. |
+
+---
+
+# 📊 Contribution Highlights
+
+```text
+🔀 50+ merged pull requests
+
+🤖 AI & MCP Tooling
+
+🔒 Security Improvements
+
+✨ Feature Development
+
+🐛 Bug Fixes
+
+♻️ Large Code Refactoring
+
+⚡ Performance Optimizations
+
+🧪 Testing & Reliability
+
+📚 Documentation Improvements
+
+🌍 Active Open Source Contributor
+```
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Maqbool61&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=Maqbool61&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📫 Connect
+# 📈 Contribution Graph
 
 <p align="center">
-  <a href="https://github.com/Maqbool61">
-    <img src="https://img.shields.io/badge/GitHub-Maqbool61-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maqbool61&theme=tokyo-night&hide_border=true"/>
+
 </p>
+
+---
+
+# 🎯 Interests
+
+- 🤖 Artificial Intelligence
+- 🧠 AI Agents
+- 🔧 MCP Ecosystem
+- ⚡ Automation
+- 💻 Python Development
+- 🌍 Open Source
+- 🛠️ Developer Tools
+- 🔒 Security Engineering
+- 🧪 Software Quality
+- 📦 Modern Software Engineering
+
+---
+
+# 📫 Connect
+
+<p align="center">
+
+<a href="https://github.com/Maqbool61">
+
+<img src="https://img.shields.io/badge/GitHub-Maqbool61-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
 
 <div align="center">
 
-**Open to Software Engineering, AI Tooling, and Open Source opportunities.**
+### 💡 Building. Learning. Contributing.
+
+Always interested in collaborating on **AI tooling, developer tools, automation, and open-source software.**
+
+⭐ **If you find one of my projects useful, consider giving it a star!**
 
 </div>
