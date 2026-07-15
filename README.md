@@ -75,23 +75,6 @@ I enjoy collaborating with maintainers and contributing improvements that make p
 
 ---
 
-# 🌍 Open Source Contributions
-
-I enjoy contributing to community projects through merged pull requests involving:
-
-- 🔒 Security Improvements
-- 🤖 AI Tooling
-- 🧠 MCP Integrations
-- ✨ New Features
-- 🐛 Bug Fixes
-- ♻️ Refactoring
-- ⚡ Performance Optimizations
-- 🧪 Testing & CI
-- 📚 Documentation
-- 💻 Developer Experience
-
----
-
 # ⭐ Featured Merged Pull Requests
 
 | Repository | Highlights |
