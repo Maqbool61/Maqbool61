@@ -96,12 +96,12 @@ I enjoy contributing to community projects through merged pull requests involvin
 
 | Repository | Highlights |
 |------------|------------|
-| **Fmarzochi/EGC #534** | Hardened audit log permissions (`chmod 600`) to better protect sensitive security events. |
-| **Fmarzochi/EGC #564** | Added automatic Continue.dev MCP server registration during installation. |
-| **cuga-project/cuga-agent #389** | Modernized logging across 22 Python files by replacing printf formatting with Python f-strings. |
-| **MarcoPorcellato/matryca-plumber #165** | Refactored private attribute access into a stable public API while keeping all **975 automated tests** passing. |
-| **bitflicker64/Termstory #203** | Improved exception handling to preserve original error context and added regression tests. |
-| **struggling-bird/open-teams #13** | Built the initial VS Code extension scaffold with commands and TypeScript configuration. |
+| **[Fmarzochi/EGC #534](https://github.com/Fmarzochi/EGC/pull/534)** | Hardened audit log permissions (`chmod 600`) to better protect sensitive security events. |
+| **[Fmarzochi/EGC #564](https://github.com/Fmarzochi/EGC/pull/564)** | Added automatic Continue.dev MCP server registration during installation. |
+| **[cuga-project/cuga-agent #389](https://github.com/cuga-project/cuga-agent/pull/389)** | Modernized logging across 22 Python files by replacing printf formatting with Python f-strings. |
+| **[MarcoPorcellato/matryca-plumber #165](https://github.com/MarcoPorcellato/matryca-plumber/pull/165)** | Refactored private attribute access into a stable public API while keeping all **975 automated tests** passing. |
+| **[bitflicker64/Termstory #203](https://github.com/bitflicker64/Termstory/pull/203)** | Improved exception handling to preserve original error context and added regression tests. |
+| **[struggling-bird/open-teams #13](https://github.com/struggling-bird/open-teams/pull/13)** | Built the initial VS Code extension scaffold with commands and TypeScript configuration. |
 | **Multiple Hugging Face projects** | Contributed fixes involving caching, logging, documentation, validation, testing, and infrastructure improvements. |
 | **Various community repositories** | Bug fixes, feature enhancements, performance optimizations, security improvements, and code quality updates. |
 
