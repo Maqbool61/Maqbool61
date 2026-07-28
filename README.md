@@ -114,15 +114,6 @@ I enjoy collaborating with maintainers and contributing improvements that make p
 🌍 Active Open Source Contributor
 ```
 
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Maqbool61&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
