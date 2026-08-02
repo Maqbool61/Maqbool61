@@ -52,7 +52,7 @@ status     : Open to collaboration ✓
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/50%2B-Merged%20PRs-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950&logo=git&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/80%2B-Merged%20PRs-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950&logo=git&logoColor=3fb950"/>
 &nbsp;
 <img src="https://img.shields.io/badge/975-Tests%20Green-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff&logo=pytest&logoColor=58a6ff"/>
 &nbsp;
