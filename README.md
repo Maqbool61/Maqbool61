@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+reliable+software+%F0%9F%94%A8;50%2B+Merged+Pull+Requests+%F0%9F%9A%80;AI+Tooling+%26+MCP+Ecosystem+%F0%9F%A4%96;Security+Hardening+%F0%9F%94%92;Open+Source+Contributor+%F0%9F%8C%8D)](https://github.com/Maqbool61)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+reliable+software+%F0%9F%94%A8;80%2B+Merged+Pull+Requests+%F0%9F%9A%80;AI+Tooling+%26+MCP+Ecosystem+%F0%9F%A4%96;Security+Hardening+%F0%9F%94%92;Open+Source+Contributor+%F0%9F%8C%8D)](https://github.com/Maqbool61)
 
 <br/>
 
