@@ -150,7 +150,6 @@ focus = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maqbool61&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="170"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=Maqbool61&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="170"/>
 
