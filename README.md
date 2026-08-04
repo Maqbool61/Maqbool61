@@ -1,12 +1,7 @@
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+reliable+software+%F0%9F%94%A8;80%2B+Merged+Pull+Requests+%F0%9F%9A%80;AI+Tooling+%26+MCP+Ecosystem+%F0%9F%A4%96;Security+Hardening+%F0%9F%94%92;Open+Source+Contributor+%F0%9F%8C%8D)](https://github.com/Maqbool61)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=84+Merged+Pull+Requests+%F0%9F%9A%80;AI+Tooling+%26+MCP+Ecosystem+%F0%9F%A4%96;Security+Engineering+%26+Encryption+%F0%9F%94%92;Python+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Kotlin;Contributing+across+18%2B+repositories+%F0%9F%8C%8D)](https://github.com/Maqbool61)
 
 <br/>
 
@@ -20,29 +15,29 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
 <br/>
 
 ## 👾 &nbsp;About Me
 
-I'm a software developer who enjoys **improving existing software** as much as building new things. I contribute to open-source by fixing bugs, building features, hardening security, refactoring large codebases, and working on AI tooling and automation.
+I'm a software developer specializing in **Python, AI tooling, and security engineering**. I contribute across a wide range of open-source projects — from AI evaluation frameworks and LLM providers to Kubernetes RBAC scanners, Android apps, and ML visualization tools. I care about correctness, security, and leaving every codebase better than I found it.
 
 <br/>
 
 ```yaml
-name       : Maqbool Ahmed
-location   : Pakistan
-role       : Software Developer
-focus      : AI Tooling · Security · Open Source · MCP Ecosystem
-status     : Open to collaboration ✓
+name         : Maqbool Ahmed
+location     : Pakistan
+role         : Software Developer
+languages    : Python · TypeScript · JavaScript · Go · Kotlin
+domains      : AI/LLM · Security Engineering · MCP Tooling · DevOps · Android
+contributions: 84 merged PRs across 18+ repositories
+status       : Open to collaboration ✓
 ```
-
-<br clear="right"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
 <br/>
 
@@ -52,19 +47,19 @@ status     : Open to collaboration ✓
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/80%2B-Merged%20PRs-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950&logo=git&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/84-Merged%20PRs-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950&logo=git&logoColor=3fb950"/>
 &nbsp;
-<img src="https://img.shields.io/badge/975-Tests%20Green-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff&logo=pytest&logoColor=58a6ff"/>
+<img src="https://img.shields.io/badge/18%2B-Repositories-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff&logo=github&logoColor=58a6ff"/>
 &nbsp;
-<img src="https://img.shields.io/badge/22-Files%20Refactored-0d1117?style=for-the-badge&labelColor=0d1117&color=bc8cff&logo=python&logoColor=bc8cff"/>
+<img src="https://img.shields.io/badge/5-Languages-0d1117?style=for-the-badge&labelColor=0d1117&color=bc8cff&logo=python&logoColor=bc8cff"/>
 &nbsp;
-<img src="https://img.shields.io/badge/8%2B-Repositories-0d1117?style=for-the-badge&labelColor=0d1117&color=f0883e&logo=github&logoColor=f0883e"/>
+<img src="https://img.shields.io/badge/AI%20%C2%B7%20Security%20%C2%B7%20DevOps-Domains-0d1117?style=for-the-badge&labelColor=0d1117&color=f0883e&logo=shield&logoColor=f0883e"/>
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
 <br/>
 
@@ -76,22 +71,28 @@ status     : Open to collaboration ✓
 
 | # | Repository | What I did | Tags |
 |:-:|---|---|---|
-| [`#534`](https://github.com/Fmarzochi/EGC/pull/534) | **Fmarzochi/EGC** | Hardened audit log permissions with `chmod 600` — closed a privilege-escalation vector | ![security](https://img.shields.io/badge/security-f0883e?style=flat-square&labelColor=2d1500) ![hardening](https://img.shields.io/badge/hardening-3fb950?style=flat-square&labelColor=1a3a2a) |
-| [`#564`](https://github.com/Fmarzochi/EGC/pull/564) | **Fmarzochi/EGC** | Auto-registered Continue.dev MCP server during install — eliminated manual setup step | ![MCP](https://img.shields.io/badge/MCP-bc8cff?style=flat-square&labelColor=2d1f5a) ![automation](https://img.shields.io/badge/automation-3fb950?style=flat-square&labelColor=1a3a2a) |
-| [`#389`](https://github.com/cuga-project/cuga-agent/pull/389) | **cuga-project/cuga-agent** | Modernized logging across 22 Python files — `%` fmt → f-strings, zero regressions | ![Python](https://img.shields.io/badge/Python-58a6ff?style=flat-square&labelColor=1f3a5f) ![refactor](https://img.shields.io/badge/refactor-3fb950?style=flat-square&labelColor=1a3a2a) |
-| [`#165`](https://github.com/MarcoPorcellato/matryca-plumber/pull/165) | **matryca-plumber** | Refactored private attrs → stable public API. All **975 tests** kept green throughout | ![API](https://img.shields.io/badge/API%20design-58a6ff?style=flat-square&labelColor=1f3a5f) ![975 tests](https://img.shields.io/badge/975%20passing-3fb950?style=flat-square&labelColor=1a3a2a) |
-| [`#203`](https://github.com/bitflicker64/Termstory/pull/203) | **bitflicker64/Termstory** | Fixed exception chaining to preserve error context + added regression tests | ![reliability](https://img.shields.io/badge/reliability-58a6ff?style=flat-square&labelColor=1f3a5f) ![tests](https://img.shields.io/badge/tests-3fb950?style=flat-square&labelColor=1a3a2a) |
-| [`#13`](https://github.com/struggling-bird/open-teams/pull/13) | **struggling-bird/open-teams** | Built the full VS Code extension scaffold with TypeScript config & command registration | ![VS Code](https://img.shields.io/badge/VS%20Code-58a6ff?style=flat-square&labelColor=1f3a5f) ![TypeScript](https://img.shields.io/badge/TypeScript-bc8cff?style=flat-square&labelColor=2d1f5a) |
+| [`#627`](https://github.com/Fmarzochi/EGC/pull/627) | **Fmarzochi/EGC** | Encrypted `.md` state files at rest with AES-256-GCM | ![security](https://img.shields.io/badge/security-f0883e?style=flat-square&labelColor=2d1500) ![encryption](https://img.shields.io/badge/AES--256-3fb950?style=flat-square&labelColor=1a3a2a) |
+| [`#625`](https://github.com/Fmarzochi/EGC/pull/625) | **Fmarzochi/EGC** | HMAC integrity checks on state files — tamper detection at rest | ![security](https://img.shields.io/badge/security-f0883e?style=flat-square&labelColor=2d1500) ![integrity](https://img.shields.io/badge/HMAC-3fb950?style=flat-square&labelColor=1a3a2a) |
+| [`#618`](https://github.com/Fmarzochi/EGC/pull/618) | **Fmarzochi/EGC** | Built `egc replay` — full session playback with timeline scrubbing | ![feature](https://img.shields.io/badge/feature-58a6ff?style=flat-square&labelColor=1f3a5f) ![devtools](https://img.shields.io/badge/devtools-bc8cff?style=flat-square&labelColor=2d1f5a) |
+| [`#724`](https://github.com/Fmarzochi/EGC/pull/724) | **Fmarzochi/EGC** | Native DeepSeek LLM provider with temperature normalization & exception retagging | ![AI](https://img.shields.io/badge/AI-bc8cff?style=flat-square&labelColor=2d1f5a) ![LLM](https://img.shields.io/badge/LLM-58a6ff?style=flat-square&labelColor=1f3a5f) |
+| [`#3191`](https://github.com/sipyourdrink-ltd/bernstein/pull/3191) | **bernstein** | Signed, independently-replayable trajectory receipts for AI eval | ![AI eval](https://img.shields.io/badge/AI%20eval-bc8cff?style=flat-square&labelColor=2d1f5a) ![signed](https://img.shields.io/badge/signed-3fb950?style=flat-square&labelColor=1a3a2a) |
+| [`#3099`](https://github.com/sipyourdrink-ltd/bernstein/pull/3099) | **bernstein** | Shipped `bernstein-bench` — runnable, reproducibility-gated evaluation harness | ![AI eval](https://img.shields.io/badge/AI%20eval-bc8cff?style=flat-square&labelColor=2d1f5a) ![tooling](https://img.shields.io/badge/tooling-58a6ff?style=flat-square&labelColor=1f3a5f) |
+| [`#105`](https://github.com/kaaval/kaaval/pull/105) | **kaaval/kaaval** | RBAC combination-escalation predicates — escalate, bind, impersonate, privileged pod | ![security](https://img.shields.io/badge/security-f0883e?style=flat-square&labelColor=2d1500) ![k8s](https://img.shields.io/badge/Kubernetes-58a6ff?style=flat-square&labelColor=1f3a5f) |
+| [`#136`](https://github.com/k-dickinson/evaltrust/pull/136) | **evaltrust** | Streamed large JSONL/CSV files line-by-line instead of full memory read | ![performance](https://img.shields.io/badge/performance-3fb950?style=flat-square&labelColor=1a3a2a) ![Python](https://img.shields.io/badge/Python-58a6ff?style=flat-square&labelColor=1f3a5f) |
+| [`#30`](https://github.com/open-devops-agent/open-devops-agent/pull/30) | **open-devops-agent** | Unit tests for storage providers, webhooks, MCP registry — fixed silent skips | ![testing](https://img.shields.io/badge/testing-3fb950?style=flat-square&labelColor=1a3a2a) ![MCP](https://img.shields.io/badge/MCP-bc8cff?style=flat-square&labelColor=2d1f5a) |
+| [`#143`](https://github.com/willyfh/visualtorch/pull/143) | **visualtorch** | Added `outline_width` param to flow, lenet, and graph neural net views | ![ML viz](https://img.shields.io/badge/ML%20viz-bc8cff?style=flat-square&labelColor=2d1f5a) ![Python](https://img.shields.io/badge/Python-58a6ff?style=flat-square&labelColor=1f3a5f) |
+| [`#3913`](https://github.com/kylecorry31/Trail-Sense/pull/3913) | **Trail-Sense** | Show distance, direction, and elevation diff on long-press map point | ![Android](https://img.shields.io/badge/Android-3fb950?style=flat-square&labelColor=1a3a2a) ![Kotlin](https://img.shields.io/badge/Kotlin-bc8cff?style=flat-square&labelColor=2d1f5a) |
+| [`#165`](https://github.com/MarcoPorcellato/matryca-plumber/pull/165) | **matryca-plumber** | Exposed public API on `SessionAliasRegistry` — removed SLF001 violations | ![refactor](https://img.shields.io/badge/refactor-3fb950?style=flat-square&labelColor=1a3a2a) ![API](https://img.shields.io/badge/API-58a6ff?style=flat-square&labelColor=1f3a5f) |
 
 </div>
 
 <br/>
 
-> 🤗 Also contributed to multiple **Hugging Face** repositories — caching, logging, validation, documentation, and infrastructure.
+> Contributions span **AI evaluation**, **LLM providers**, **security engineering**, **Kubernetes RBAC**, **Android**, **ML visualization**, **MCP tooling**, **DevOps**, **frontend**, and more.
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
 <br/>
 
@@ -101,25 +102,25 @@ status     : Open to collaboration ✓
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,flask,html,css,git,github,vscode,linux&theme=dark&perline=11"/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,go,kotlin,docker,linux,git,github,vscode,androidstudio&theme=dark&perline=11"/>
 
 </div>
 
 <br/>
 
 ```text
-Python                ████████████████████░░  92%
-AI / MCP Tooling      ██████████████████░░░░  88%
-Code Refactoring      █████████████████░░░░░  85%
-Security Hardening    ████████████████░░░░░░  82%
-Testing & Reliability ███████████████░░░░░░░  80%
-Developer Tooling     ██████████████░░░░░░░░  78%
-JavaScript/TypeScript █████████████░░░░░░░░░  74%
+Python                  ████████████████████░░  92%   evaltrust · visualtorch · matryca-plumber · Termstory
+AI / LLM Tooling        ██████████████████░░░░  88%   DeepSeek provider · bernstein · evaltrust · MCP
+Security Engineering    █████████████████░░░░░  85%   AES-256-GCM · HMAC · RBAC · audit logs · Kubernetes
+TypeScript / JavaScript ████████████████░░░░░░  82%   EGC · ansvisor · Prism-platform · layerkit
+Testing & Reliability   ███████████████░░░░░░░  80%   open-devops-agent · matryca-plumber · evaltrust
+Go / Kubernetes         █████████████░░░░░░░░░  72%   kaaval RBAC scanner · cluster security rules
+Android / Kotlin        ████████████░░░░░░░░░░  68%   Trail-Sense · UI · maps · battery detection
 ```
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
 <br/>
 
@@ -129,17 +130,17 @@ JavaScript/TypeScript █████████████░░░░░░�
 
 ```python
 focus = {
-    "🤖 AI & MCP Ecosystem"    : "Contributing to MCP projects, Continue.dev integrations, agent scaffolding",
-    "🔒 Security Hardening"    : "File permissions, exception leaks, unsafe defaults — low-friction, high-impact",
-    "🧪 Testing & Reliability" : "Regression tests, exception chaining, keeping every CI pipeline green",
-    "⚡ Python Automation"     : "Eliminating repetitive dev workflows through clean tooling and scripting",
-    "🌍 Open Source"           : "Bug fixes, features, refactors, docs — 50+ merged PRs and still going",
+    "🤖 AI & LLM Tooling"       : "Native LLM providers, eval harnesses, reproducible trajectory receipts (EGC, bernstein)",
+    "🔒 Security Engineering"   : "AES-256-GCM encryption, HMAC integrity, Kubernetes RBAC escalation detection (kaaval, EGC)",
+    "📡 MCP Ecosystem"          : "MCP server tooling, registry tests, Continue.dev integration, AI agent infra",
+    "🧪 Testing & Reliability"  : "Unit tests, silent-skip detection, streaming parsers, CI hardening",
+    "🌍 Open Source"            : "84 merged PRs across 18+ repos — features, security, fixes, refactors, docs",
 }
 ```
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
 <br/>
 
@@ -148,6 +149,9 @@ focus = {
 <br/>
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Maqbool61&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" height="170"/>
+&nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=Maqbool61&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" height="170"/>
 
 <br/><br/>
@@ -158,7 +162,7 @@ focus = {
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
 <br/>
 
@@ -174,7 +178,7 @@ focus = {
 
 <br/><br/>
 
-**Open to collaborating on** &nbsp;·&nbsp; AI agent frameworks &nbsp;·&nbsp; MCP integrations &nbsp;·&nbsp; Security hardening &nbsp;·&nbsp; Python open source &nbsp;·&nbsp; Developer tooling
+**Open to collaborating on** &nbsp;·&nbsp; AI/LLM tooling &nbsp;·&nbsp; MCP integrations &nbsp;·&nbsp; Security engineering &nbsp;·&nbsp; Kubernetes &nbsp;·&nbsp; Python open source &nbsp;·&nbsp; Android
 
 </div>
 
