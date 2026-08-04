@@ -183,9 +183,3 @@ focus = {
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:0d1117,100:0d1117&height=100&section=footer&reversal=true" width="100%"/>
-
-</div>
