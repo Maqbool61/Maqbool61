@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=84+Merged+Pull+Requests+%F0%9F%9A%80;AI+Tooling+%26+MCP+Ecosystem+%F0%9F%A4%96;Security+Engineering+%26+Encryption+%F0%9F%94%92;Python+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Kotlin;Contributing+across+18%2B+repositories+%F0%9F%8C%8D)](https://github.com/Maqbool61)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=58A6FF&background=0D111700&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=99+Merged+Pull+Requests+%F0%9F%9A%80;AI+Tooling+%26+MCP+Ecosystem+%F0%9F%A4%96;Security+Engineering+%26+Encryption+%F0%9F%94%92;Python+%C2%B7+TypeScript+%C2%B7+Go+%C2%B7+Kotlin;Contributing+across+18%2B+repositories+%F0%9F%8C%8D)](https://github.com/Maqbool61)
 
 <br/>
 
@@ -32,7 +32,7 @@ location     : Pakistan
 role         : Software Developer
 languages    : Python · TypeScript · JavaScript · Go · Kotlin
 domains      : AI/LLM · Security Engineering · MCP Tooling · DevOps · Android
-contributions: 84 merged PRs across 18+ repositories
+contributions: 99 merged PRs across 18+ repositories
 status       : Open to collaboration ✓
 ```
 
@@ -48,7 +48,7 @@ status       : Open to collaboration ✓
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/84-Merged%20PRs-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950&logo=git&logoColor=3fb950"/>
+<img src="https://img.shields.io/badge/99-Merged%20PRs-0d1117?style=for-the-badge&labelColor=0d1117&color=3fb950&logo=git&logoColor=3fb950"/>
 &nbsp;
 <img src="https://img.shields.io/badge/18%2B-Repositories-0d1117?style=for-the-badge&labelColor=0d1117&color=58a6ff&logo=github&logoColor=58a6ff"/>
 &nbsp;
